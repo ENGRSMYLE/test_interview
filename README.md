@@ -56,19 +56,8 @@ from decode_secret import decode_secret_message
 decode_secret_message("https://docs.google.com/document/d/e/<DOC_ID>/pub")
 ```
 
----
 
-## Example Output
 
-Given a doc with the right coordinates, the output might look like:
-
-```
-█▀▀▀
-█▀▀
-█
-```
-
-Which spells out the letter **F**.
 
 ---
 
